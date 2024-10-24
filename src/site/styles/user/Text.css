@@ -13,3 +13,31 @@ body {
 a.one:link {color: #bababa;}
 a.one:visited {color: #A1A1A1;}
 a.one:hover {color: #bababa;}
+
+a:link {text-decoration: none; color: #bababa;}
+a:visited {text-decoration: none; color: #A1A1A1;}
+a:hover {text-decoration: none; color: #bababa;}
+a:active {text-decoration: none; color: #bababa;}
+  text-decoration: none; 
+  color: #f00;
+}
+
+#macrosectiontext {
+  position: relative;
+  font:Cabin, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  margin-top: 245px;
+  opacity: 0.6;
+  background-color: transparent;
+}
+
+#macrosectiontext a:link {
+  color: #000;
+}
+#macrosectiontext a:visited {text-decoration: none; color: #A1A1A1;}
+#macrosectiontext a:hover {text-decoration: none; color: #bababa;}
+#macrosectiontext a:active {text-decoration: none; color: #bababa;}
+  color: #fff;
+}
