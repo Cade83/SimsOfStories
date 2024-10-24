@@ -3,4 +3,4 @@
 ---
 
 
-Test
+Test [[Courage & Resolve/C&R Sims/Gen 1/Amelia Brown\|Amelia Brown]]
