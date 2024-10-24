@@ -41,7 +41,7 @@
 
 ## Profile
 > [!caption|right]
-> ![B.1.8.2.png](/img/user/Images/Story/B.1.8.2.png) 
+> ![B.1.8.2.png|100px](/img/user/Images/Story/B.1.8.2.png) 
 > Amelia and Samson at The Dancing Crab.
 
 Born and raised in [[Uncategorized/Towns/Brindleton Bay\|Brindleton Bay]], Amelia enjoyed an average childhood, and started working at [[Courage & Resolve/C&R Locations/Gen 1/The Dancing Crab\|The Dancing Crab]] while in her sophomore year of high school. She saved up enough to move out and put herself through school at the University of Brindleton. She worked there throughout her time in school, and it was at that restaurant where she met [[Courage & Resolve/C&R Sims/Gen 1/Samson Brown\|Samson Brown]]. The two become good friends, and later, they began dating and eventually wed.
