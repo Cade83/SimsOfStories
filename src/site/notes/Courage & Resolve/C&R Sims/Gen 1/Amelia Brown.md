@@ -41,13 +41,13 @@
 
 ## Profile
 > [!caption|right]
-> ![B.1.8.2.png|100px](/img/user/Images/Story/B.1.8.2.png) 
+> ![B.1.8.2.png|200](/img/user/Images/Story/B.1.8.2.png) 
 > Amelia and Samson at The Dancing Crab.
 
 Born and raised in [[Uncategorized/Towns/Brindleton Bay\|Brindleton Bay]], Amelia enjoyed an average childhood, and started working at [[Courage & Resolve/C&R Locations/Gen 1/The Dancing Crab\|The Dancing Crab]] while in her sophomore year of high school. She saved up enough to move out and put herself through school at the University of Brindleton. She worked there throughout her time in school, and it was at that restaurant where she met [[Courage & Resolve/C&R Sims/Gen 1/Samson Brown\|Samson Brown]]. The two become good friends, and later, they began dating and eventually wed.
 
 > [!caption|left]
-> ![B.1.10.10.png|200px](/img/user/Images/Story/B.1.10.10.png) 
+> ![B.1.10.10.png|100](/img/user/Images/Story/B.1.10.10.png) 
 > Amelia and Samson purchase their first home.
 
 When Amelia got pregnant with [[Courage & Resolve/C&R Sims/Gen 1/Jamira Brown\|Jamira]], she and Samson discussed things, and he chose to drop out of college and put his tuition money towards a [[Courage & Resolve/C&R Locations/Gen 1/Amelia and Samson's\|house]]. Amelia was pursuing a law degree, while Samson was merely an aspiring musician, so they both agreed her degree was more valuable. This decision, however, later proved to be a point of contention that marked the deterioration of their marriage. Once Amelia gradated, she was unable to find work, so the two continued to do what they had, and after the birth of [[Courage & Resolve/C&R Sims/Gen 1/Cory Brown\|Cory]], money started to run out. Samson, angry at their situation, began drinking and became abusive. In response, Amelia began to put money away, and once she had enough, she took their children and left for a [[Courage & Resolve/C&R Locations/Gen 1/Brown Residence\|new home]] in [[Uncategorized/Towns/Willow Creek\|Willow Creek]].
