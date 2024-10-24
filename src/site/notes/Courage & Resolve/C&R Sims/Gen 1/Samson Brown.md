@@ -4,35 +4,35 @@
 
 > [!infobox]+ Collapsible Infobox
 > # Samson Brown
-> ![Samson Gen 1.png](/img/user/Images/Sims/Samson%20Gen%201.png) 
+ [[Samson Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
-> | ---- | ---- | 
-> | Full Name | Samson Brown | 
+  Type | Stat | 
+  ---- | ---- | 
+  Full Name | Samson Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
-> | ---- | ---- | 
-> | Gender | Male | 
-> | Life State | Human |
-> | Generation | [[Uncategorized/Generations/First Generation\|First Generation]] |
-> | Relatives | [[Courage & Resolve/C&R Sims/Gen 1/Amelia Brown\|Amelia Brown]] (Wife)<br>[[Courage & Resolve/C&R Sims/Gen 1/Jamira Brown\|Jamira Brown]] (Daughter)<br>[[Courage & Resolve/C&R Sims/Gen 1/Cory Brown\|Cory Brown]] (Son)|
+  Type | Stat | 
+  ---- | ---- | 
+  Gender | Male | 
+  Life State | Human |
+  Generation | [[Uncategorized/Generations/First Generation\|First Generation]] |
+  Relatives | [[Courage & Resolve/C&R Sims/Gen 1/Amelia Brown\|Amelia Brown]] (Wife)<br>[[Courage & Resolve/C&R Sims/Gen 1/Jamira Brown\|Jamira Brown]] (Daughter)<br>[[Courage & Resolve/C&R Sims/Gen 1/Cory Brown\|Cory Brown]] (Son)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
-> | ---- | ---- | 
-> | Birthplace | [[Uncategorized/Towns/Magnolia Promenade\|Magnolia Promenade]] | 
-> | Lived In | [[Uncategorized/Towns/Brindleton Bay\|Brindleton Bay]] <br>[[Uncategorized/Towns/Willow Creek\|Willow Creek]]| 
-> | Home | [[Courage & Resolve/C&R Locations/Gen 1/Amelia and Samson's\|Amelia and Samson's]] | 
-> | Career | Musician | 
+  Type | Stat | 
+  ---- | ---- | 
+  Birthplace | [[Uncategorized/Towns/Magnolia Promenade\|Magnolia Promenade]] | 
+  Lived In | [[Uncategorized/Towns/Brindleton Bay\|Brindleton Bay]] <br>[[Uncategorized/Towns/Willow Creek\|Willow Creek]]| 
+  Home | [[Courage & Resolve/C&R Locations/Gen 1/Amelia and Samson's\|Amelia and Samson's]] | 
+  Career | Musician | 
 > 
 > ##### Story Info
-> | Type | Stat | 
-> | ---- | ---- | 
-> | Primary Story | [[Courage & Resolve/Courage & Resolve\|Courage & Resolve]] | 
-> | Appearance Count | 8 | 
-> | First Appearance | Courage & Resolve *1.7 - Samson*
-> | Final Appearance | Courage & Resolve *1.15 - Headlights in the Night*
+  Type | Stat | 
+  ---- | ---- | 
+  Primary Story | [[Courage & Resolve/Courage & Resolve\|Courage & Resolve]] | 
+  Appearance Count | 8 | 
+  First Appearance | Courage & Resolve *1.7 - Samson*
+  Final Appearance | Courage & Resolve *1.15 - Headlights in the Night*
 
 > [!quote|author] Samson threatening Amelia
 > “Here’s what’s going to happen here, Amelia. Like you did to me so long ago, I’m going to take my children away from you in the dead of night, and disappear. It’s what you deserve.”
@@ -41,38 +41,38 @@
 
 ## Profile
 > [!caption|right]
-> ![B.1.8.5.png](/img/user/Images/Story/B.1.8.5.png) 
+ [[B.1.8.5.png]] 
 > Samson asks out Amelia.
 
 Samson moved out to [[Uncategorized/Towns/Brindleton Bay\|Brindleton Bay]] to study at the University of Brindleton, where he pursued a degree in music theory. He got a job at [[Courage & Resolve/C&R Locations/Gen 1/The Dancing Crab\|The Dancing Crab]] to support himself, and it was at that job where he met [[Courage & Resolve/C&R Sims/Gen 1/Amelia Brown\|Amelia Brown]]. The two struck up a friendship, and eventually fell for each other. Amelia got pregnant with [[Courage & Resolve/C&R Sims/Gen 1/Jamira Brown\|Jamira Brown]] before either of them were finished with college, and Samson dropped out and used the remainder of his tuition to purchase a [[Courage & Resolve/C&R Locations/Gen 1/Amelia and Samson's\|house]] for their growing family.
 
 > [!caption|left]
-> ![B.1.7.11.png](/img/user/Images/Story/B.1.7.11.png) 
+ [[B.1.7.11.png]] 
 > Amelia serves Samson divorce papers.
 
 While things were good between Amelia and Samson first, things started to get tense. Both him and Amelia kept working at The Dancing Crab, even long after Amelia graduated, as she wasn't able to find a job with her degree. Money got tight, and Samson turned to drugs and alcohol, and became abusive towards Amelia. In response, Amelia took Jamira and their son, [[Courage & Resolve/C&R Sims/Gen 1/Cory Brown\|Cory Brown]], and fled to [[Uncategorized/Towns/Willow Creek\|Willow Creek]].
 
 > [!caption|right]
-> ![B.1.8.11.png](/img/user/Images/Story/B.1.8.11.png) 
+ [[B.1.8.11.png]] 
 > Samson meets with Stefan.
 
 Samson spent the next few years in a drunken stupor that was only interrupted when their good friend [[Johnny Zest\|Johnny Zest]] dropped by every now and then to check in on him. When he showed Samson a picture of how grown Jamira and Cory were, Samson decided he wanted to be a father to them. He booked a room at a [[Courage & Resolve/C&R Locations/Gen 1/Treefall Inn\|hotel]] in Willow Creek, and tried to take full custody of his children from Amelia. [[Courage & Resolve/C&R Locations/Gen 1/Beauchamp Law\|Beauchamp Law]] threw out the case, which resulted in Samson turning to [[Courage & Resolve/C&R Sims/Gen 1/Stefan Barrens\|Stefan Barrens]] for help. Stefan already had a personal vendetta against Amelia, and was all too willing to help Samson.
 
 > [!caption|left]
-> ![B.1.10.18.png](/img/user/Images/Story/B.1.10.18.png) 
+ [[B.1.10.18.png]] 
 > Samson reunites with his children.
 
 With Stefan's help, Samson was able to meet with Amelia, and then Jamira and Cory. He came to realize that his children didn't see him as a father, and that Amelia would be the only parent the two of them would ever recognize. Accepting this shattered Samson, as he'd began to dream of partial custody, and having the perfect family again. Desperate for the love of his children, Samson forced Stefan to come up with a new plan. He decided that the two of them should interrogate [[Dreams of Fame/DoF Sims/Gen 1/Jo Kauffman\|Jo Kauffman]], and the two broke into her [[Dreams of Fame/DOF Locations/Gen 1/Jo's House\|house]]. In the process of interrogating her, Samson killed Jo, forcing Stefan to cover up the crime. This was Stefan's final straw, and he stopped associating with Samson from that day on.
 
 > [!caption|right]
-> ![B.1.15.37.png](/img/user/Images/Story/B.1.15.37.png) 
+ [[B.1.15.37.png]] 
 > Samson's final attempt at being a father.
 
 Left with nothing else, Samson made one final attempt to win back his children. One snowy winter night, he showed up at [[Courage & Resolve/C&R Locations/Gen 1/Brown Residence\|Amelia's house]] with a gun. He forced Jamira and Cory out of the house, planning to take them away from Amelia by force. Samson was unlucky enough to run into Amelia outdoors, and while threatening to shoot her, he was hit by a car driven by [[Courage & Resolve/C&R Sims/Gen 1/Carter Reyes\|Carter Reyes]]. 
 ######  Post Death
 
 > [!caption|left]
-> ![B.2.1.16.png](/img/user/Images/Story/B.2.1.16.png) 
+ [[B.2.1.16.png]] 
 > Amelia talks to Samson's grave.
 
 After Samson's death, Amelia ensured that Carter would face no criminal charges, framing things to paint Carter as their savior. She then allowed herself to mourn, and became a regular visitor to his grave. She didn't mourn the Samson that was killed however, she mourned the man he had been at the start.
