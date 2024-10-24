@@ -1,3 +1,6 @@
 main.content {
     max-width: max(700px, calc(100% - 300px - 300px))
 }
+p {
+  margin-left: 150px;
+}
