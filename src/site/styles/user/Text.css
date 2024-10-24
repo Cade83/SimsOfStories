@@ -1,0 +1,10 @@
+/* text */
+body {
+  color: #3e3e3e;
+  font-family: Cabin;
+}
+
+/* links */
+a.one:link {color: #bababa;}
+a.one:visited {color: #A1A1A1;}
+a.one:hover {color: #bababa;}
