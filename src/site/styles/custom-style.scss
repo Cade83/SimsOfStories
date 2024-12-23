@@ -10,4 +10,19 @@ body {
     //  h1 {
     //   color: black;
     //  }
-}
+html {
+  $base-font-size: 10;
+  $min-scale-size: 1440;
+  $max-scale-size: 3840;
+
+  $min-font-size: $base-font-size * 1px;
+  $viewport-font-size: $base-font-size / $min-scale-size * 100vw;
+  $max-font-size: $base-font-size * ($max-scale-size / $min-scale-size) * 1px;
+
+  font-size: $min-font-size; // 10px until 1440
+
+  @media (min-width: #{$min-scale-size}px) {
+    font-size: clamp($min-font-size, $viewport-font-size, $max-font-size);
+    // equally variable from 1440 to 3840
+  }
+
